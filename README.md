@@ -1,5 +1,5 @@
 ## Desafio de criação de formulário
-Realizado durante estudos sobre formulário e HTML5 intermediário
+Realizado durante estudos sobre formulário e HTML5 intermediário.
 
 ## Objetivos
 - Por em prática meus conhecimentos adquiridos;
